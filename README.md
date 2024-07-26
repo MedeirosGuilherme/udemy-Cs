@@ -30,4 +30,8 @@ This course is divided in 5 parts:
   - [ ] Layered pattern, MVC pattern, Database, ORM, GUI, CRUD, etc.
   - [ ] ASP .NET Core, Entity Framework Core
 
+  # Lesson 01
+
+The first lesson is just an introduction to the course, introducing the lessons, prerequesites, etc.
+
 
